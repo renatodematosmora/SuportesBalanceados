@@ -1,6 +1,4 @@
-# ChallengeBravi
-
-1. Suportes balanceados
+# Suportes balanceados
 
 Escreva uma função que receba uma string de colchetes como entrada e determine se a ordem dos colchetes é válida. Um colchete é considerado qualquer um dos seguintes caracteres: (, ), {, }, [, or ].
 
